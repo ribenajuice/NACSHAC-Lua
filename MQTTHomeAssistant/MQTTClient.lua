@@ -1,0 +1,2 @@
+"require("user.MQTTHomeAssistant")
+MQTTStart()"
